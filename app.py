@@ -9,7 +9,7 @@ import plotly.express as px
 
 
 
-@st.cache_rsource
+@st.cache_resource
 def carrega_modelo():
     #https://drive.google.com/file/d/1UPVJjwZ1lf9HPIiGXUVpD3fOoEn3AaJW/view?usp=drive_link
     url = 'https://drive.google.com/uc?id=1UPVJjwZ1lf9HPIiGXUVpD3fOoEn3AaJW'
