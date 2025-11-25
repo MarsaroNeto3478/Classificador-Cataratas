@@ -5,7 +5,7 @@ import io
 from PIL import Image
 import numpy as np
 import pandas as pd
-import plotly_express as px
+import plotly.express as px
 
 
 
